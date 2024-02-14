@@ -89,7 +89,7 @@ const feeOptions = {
         [pad("0x0")],
         [initialPermissions.encode()],
       ],
-      pluginAddress: SESSION_KEY_PLUGIN_ADDRESS,
+      // pluginAddress: SESSION_KEY_PLUGIN_ADDRESS,
     });
 
     await client.waitForUserOperationTransaction({ hash });

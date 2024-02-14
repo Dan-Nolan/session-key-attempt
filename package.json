@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@alchemy/aa-accounts": "3.0.0-alpha.5",
-    "@alchemy/aa-alchemy": "3.0.0-alpha.5",
-    "@alchemy/aa-core": "3.0.0-alpha.5",
-    "dotenv": "^16.4.1",
-    "localstorage-polyfill": "^1.0.1"
+    "@alchemy/aa-accounts": "3.0.0-alpha.9",
+    "@alchemy/aa-alchemy": "3.0.0-alpha.9",
+    "@alchemy/aa-core": "3.0.0-alpha.9",
+    "dotenv": "^16.4.1"
   },
   "keywords": [],
   "author": "",
